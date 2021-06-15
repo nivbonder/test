@@ -41,3 +41,10 @@
 *.sln
 *.db
 *.suo
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.vcxproj
+*.recipe
+*.idb
