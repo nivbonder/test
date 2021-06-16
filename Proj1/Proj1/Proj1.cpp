@@ -10,7 +10,7 @@ int main()
     std::cout << "hello to you to niv :)" << std::endl;
     std::cout << "bug fix 1" << std::endl;
     std::cout << "stash2" << std::endl;
-    std::cout << num << std::endl;
+    std::cout << num*2 << std::endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
