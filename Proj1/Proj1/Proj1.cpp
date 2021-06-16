@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "hello to you to :)" << std::endl;
+    std::cout << "hello to you to niv :)" << std::endl;
     std::cout << "bug fix 1" << std::endl;
     std::cout << "stash2" << std::endl;
 }
