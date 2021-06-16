@@ -5,8 +5,12 @@
 
 int main()
 {
+    int num = 6;
     std::cout << "Hello World!\n";
-    std::cout << "hello to you to :)" << std::endl;
+    std::cout << "hello to you to niv :)" << std::endl;
+    std::cout << "bug fix 1" << std::endl;
+    std::cout << "stash2" << std::endl;
+    std::cout << num << std::endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
