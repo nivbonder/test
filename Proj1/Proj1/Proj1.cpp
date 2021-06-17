@@ -3,6 +3,9 @@
 
 #include <iostream>
 
+void Newfunc()
+{}
+
 int main()
 {
     int num = 6;
