@@ -3,6 +3,9 @@
 
 #include <iostream>
 
+void DoNothing()
+{}
+
 int main()
 {
     int num = 6;
