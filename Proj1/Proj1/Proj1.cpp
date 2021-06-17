@@ -3,6 +3,9 @@
 
 #include <iostream>
 
+void ProblenFunc()
+{}
+
 int main()
 {
     int num = 6;
