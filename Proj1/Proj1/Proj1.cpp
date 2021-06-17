@@ -3,7 +3,11 @@
 
 #include <iostream>
 
+
 void ProblenFunc()
+{}
+
+void Newfunc()
 {}
 
 int main()
